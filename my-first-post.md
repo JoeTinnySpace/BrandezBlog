@@ -3,6 +3,7 @@ title: "The Future of Headless E-Commerce"
 excerpt: "Why moving away from monolithic platforms like Shopify or Magento towards Edge-based frameworks is revolutionizing site speeds."
 date: "2026-03-24"
 author: "JoeTinnySpace"
+tags: ["Infrastructure", "Scaling", "Edge"]
 coverImage: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2000&auto=format&fit=crop"
 ---
 
