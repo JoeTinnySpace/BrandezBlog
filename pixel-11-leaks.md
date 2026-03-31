@@ -1,13 +1,11 @@
-
 ---
 title: "Pixel 11 Leaks: The Tensor G6 Era"
 excerpt: "Everything we know about Google's highly anticipated Pixel 11 lineup coming this August, from 2nm chips to new MediaTek modems."
-author: "JoeTinnySpace"
 date: "2026-04-01"
-tags: ["Android", "AI"]
+author: "JoeTinnySpace"
+tags: ["Mobile", "Google", "Android"]
 coverImage: "https://images.unsplash.com/photo-1613588718956-618b7156f707?q=80&w=2000&auto=format&fit=crop"
 ---
-
 
 # A New Era for Android Hardware
 The tech world is currently buzzing with massive structural leaks regarding Google's next flagship smartphone catalog: **The Pixel 11 lineup**. 
@@ -38,3 +36,4 @@ The physical design language isn't getting overhauled, but it's receiving the pr
 * **Longevity Specs:** Base models are finally shipping with a massive **12GB of RAM**, a **5,000mAh battery**, and native **Qi2 Magnetic Charging** right out of the box.
 
 If these leaks hold true, the Pixel 11 will be the most complete, technologically flawless device Google has ever shipped. 
+  
