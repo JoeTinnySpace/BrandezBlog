@@ -4,7 +4,7 @@ excerpt: "Everything we know about Google's highly anticipated Pixel 11 lineup c
 date: "2026-04-01"
 author: "JoeTinnySpace"
 tags: ["Mobile", "Google", "Android"]
-coverImage: "https://images.unsplash.com/photo-1613588718956-618b7156f707?q=80&w=2000&auto=format&fit=crop"
+coverImage: "https://images.unsplash.com/photo-1775002003561-7ed71c820881?q=80&w=2000&auto=format&fit=crop"
 ---
 
 # A New Era for Android Hardware
