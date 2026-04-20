@@ -3,7 +3,7 @@ title: "Gemma 4: Google's New Frontier for Open AI Models"
 excerpt: "Google introduces Gemma 4, a family of state-of-the-art open models purpose-built for advanced reasoning and agentic workflows under an Apache 2.0 license."
 date: "2026-04-05"
 author: "JoeTinnySpace"
-tags: ["AI", "Google", "Open Source", "Machine Learning"]
+tags: ["AI & Machine Learning", "Tech Trends"]
 coverImage: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=2000&auto=format&fit=crop"
 ---
 

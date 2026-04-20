@@ -3,7 +3,7 @@ title: "Anthropic Quietly Drops Claude Opus 4.7: The New Standard for Code"
 excerpt: "Without much fanfare, Anthropic released Claude Opus 4.7 this April, aggressively setting a new benchmark for AI-driven software engineering and agentic coding tasks."
 date: "2026-04-20"
 author: "JoeTinnySpace"
-tags: ["AI Development", "Anthropic", "Claude Opus 4.7", "Coding Agents", "Software Engineering"]
+tags: ["AI & Machine Learning", "Development"]
 coverImage: "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?q=80&w=2000&auto=format&fit=crop"
 ---
 

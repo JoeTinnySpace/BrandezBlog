@@ -3,7 +3,7 @@ title: "Pixel 11 Leaks: The Tensor G6 Era"
 excerpt: "Everything we know about Google's highly anticipated Pixel 11 lineup coming this August, from 2nm chips to new MediaTek modems."
 date: "2026-04-01"
 author: "JoeTinnySpace"
-tags: ["Mobile", "Google", "Android"]
+tags: ["Hardware & Networks", "Tech Trends"]
 coverImage: "https://images.unsplash.com/photo-1775002003561-7ed71c820881?q=80&w=2000&auto=format&fit=crop"
 ---
 

@@ -3,7 +3,7 @@ title: "The Death of Space Black: iPhone 18 Pro Leak Reveals a New Aesthetic Str
 excerpt: "Recent leaks suggest Apple is doubling down on its boldest color strategy yet by removing the iconic black finish from the iPhone 18 Pro lineup for the second year running."
 date: "2026-04-05"
 author: "JoeTinnySpace"
-tags: ["Mobile", "Apple", "iPhone", "Tech Leaks"]
+tags: ["Hardware & Networks", "Tech Trends"]
 coverImage: "https://images.unsplash.com/photo-1616348436168-de43ad0db179?q=80&w=2000&auto=format&fit=crop"
 ---
 

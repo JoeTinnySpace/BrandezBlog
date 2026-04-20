@@ -3,7 +3,7 @@ title: "The AI Model We Aren't Allowed to See: Inside Anthropic's Claude Mythos"
 excerpt: "Anthropic has developed its most powerful AI model yet, Claude Mythos, but citing severe cybersecurity risks, the company is gating it behind a controversial new initiative called 'Project Glasswing'."
 date: "2026-04-20"
 author: "JoeTinnySpace"
-tags: ["AI Models", "Anthropic", "Claude Mythos", "Cybersecurity", "Project Glasswing"]
+tags: ["AI & Machine Learning", "Privacy & Security"]
 coverImage: "https://images.unsplash.com/photo-1620825937374-87fc1d6aafdd?q=80&w=2000&auto=format&fit=crop"
 ---
 

@@ -3,7 +3,7 @@ title: "AI in Healthcare: Targeting Invisible Cancer Subtypes"
 excerpt: "New AI applications are moving beyond general analytics to combat highly specific medical challenges, displaying massive breakthroughs in detecting difficult breast cancer subtypes."
 date: "2026-04-20"
 author: "JoeTinnySpace"
-tags: ["Healthcare Technology", "Medical AI", "HealthTech", "Cancer Research"]
+tags: ["AI & Machine Learning", "Tech Trends"]
 coverImage: "https://images.unsplash.com/photo-1576091160550-2173ff9e5ee5?q=80&w=2000&auto=format&fit=crop"
 ---
 

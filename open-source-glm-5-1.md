@@ -3,7 +3,7 @@ title: "GLM-5.1 Shakes Up the Open-Source AI Landscape"
 excerpt: "Zhipu AI's newly released GLM-5.1, a massive 744B parameter MoE model, is disrupting the open-source charts and challenging the dominance of western AI labs."
 date: "2026-04-20"
 author: "JoeTinnySpace"
-tags: ["Open Source AI", "Machine Learning", "GLM-5.1", "Zhipu AI", "Tech News"]
+tags: ["AI & Machine Learning", "Tech Trends"]
 coverImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=2000&auto=format&fit=crop"
 ---
 
