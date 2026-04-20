@@ -4,7 +4,7 @@ excerpt: "Anthropic has developed its most powerful AI model yet, Claude Mythos,
 date: "2026-04-20"
 author: "JoeTinnySpace"
 tags: ["AI & Machine Learning", "Privacy & Security"]
-coverImage: "/assets/claude_mythos_cyber.png"
+coverImage: "https://raw.githubusercontent.com/JoeTinnySpace/BrandezBlog/main/assets/claude_mythos_cyber.png"
 ---
 
 # When AI Becomes Too Powerful to Release
