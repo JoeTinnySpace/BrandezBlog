@@ -4,7 +4,7 @@ excerpt: "New AI applications are moving beyond general analytics to combat high
 date: "2026-04-20"
 author: "JoeTinnySpace"
 tags: ["AI & Machine Learning", "Tech Trends"]
-coverImage: "https://images.unsplash.com/photo-1576091160550-2173ff9e5ee5?q=80&w=2000&auto=format&fit=crop"
+coverImage: "/assets/ai_medical_cancer.png"
 ---
 
 # Transforming Diagnostics with Precision AI
