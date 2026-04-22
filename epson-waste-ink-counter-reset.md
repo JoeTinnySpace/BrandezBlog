@@ -20,7 +20,7 @@ Here is how to reset that digital counter back to 0%.
 To perform this software reset, you will need:
 1. **A Windows PC** (The reset utilities generally do not run on macOS without a virtual machine).
 2. **A direct USB connection.** Do not attempt to reset the counter over Wi-Fi. Plug the printer directly into your computer via a USB cable.
-3. **The Epson Adjustment Program (AdjProg).** You will need to find and download the specific version of `AdjProg.exe` built for your exact printer model. 
+3. **The Epson Adjustment Program (AdjProg).** You will need to find and download the specific version of `AdjProg.exe` built for your exact printer model. **[You can purchase and download the verified reset tool directly from our Store page.](/store)** 
 
 > **Important Security Note:** Because AdjProg is proprietary factory software often leaked online, Windows Defender and other antivirus programs will almost always flag it as a virus, malware, or a trojan. You will likely need to temporarily disable your antivirus to extract and run the utility. Proceed with caution and ensure you are downloading from a trusted repair forum.
 
